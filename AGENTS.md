@@ -72,6 +72,7 @@ concurrent writes.
 4. **No invented number passes as a finding.** Every number you estimated, guessed or chose,
    rejected options included, is marked guess (what it rests on) or proposal (why). Every price,
    total, rate, limit or date a decision rests on names its source or shows its calculation.
+   Counts in prose and numbers in names need no label.
    Why: an unlabelled number you chose gets treated as a finding.
 
 5. **Stop and audit.** Stop when the same approach has failed twice in a row, when you are about

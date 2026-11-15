@@ -1,6 +1,7 @@
 # HANDOFFS
 
-What goes in: one entry per working session, written by the agent before it stops.
+What goes in: one entry per session that changed a file, written by the agent before it stops.
+A session that only read writes nothing here.
 Append-only: add new entries at the bottom, never edit an old one. The last entry is the newest.
 What never goes in: secrets (passwords, keys, tokens, card numbers, private links), raw chat
 transcripts. Summarize instead.

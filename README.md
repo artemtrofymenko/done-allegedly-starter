@@ -34,7 +34,8 @@ stable. They do not measure how often it fails in everyday work.
   Install: https://github.com/openai/codex
 
 Prices and plans change. Check the plan pages before you pay. One of the two tools is enough
-for everything in this folder.
+for everything in this folder. The full kit's check on plans with numbers (rule 4) runs in a new
+Codex session.
 
 ## Install
 
