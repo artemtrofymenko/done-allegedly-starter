@@ -110,7 +110,9 @@ for Claude Code and `~/.codex/AGENTS.md` for Codex. Those combine with this proj
 
 ## The full kit
 
-The full kit is a one-time purchase on Whop: https://whop.com/done-allegedly/done-allegedly-10/
+The full kit is a one-time purchase, the same files and price on either store:
+- Whop: https://whop.com/done-allegedly/done-allegedly-10/
+- Gumroad: https://doneallegedly.gumroad.com/l/done-allegedly
 
 It adds what this base leaves out:
 - six skills, each a written procedure the agent follows step by step: spec-first,
